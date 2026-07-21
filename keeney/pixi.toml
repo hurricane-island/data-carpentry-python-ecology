@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Keeney <nkeeney@oceanics.io>"]
+channels = ["conda-forge"]
+name = "keeney"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
