@@ -1,7 +1,7 @@
 [workspace]
-authors = ["Keeney <nkeeney@oceanics.io>"]
+authors = ["Hurricane Island <nkeeney@hurricaneisland.net>"]
 channels = ["conda-forge"]
-name = "keeney"
+name = "python-ecology"
 platforms = ["osx-arm64"]
 version = "0.1.0"
 
